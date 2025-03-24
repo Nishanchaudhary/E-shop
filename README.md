@@ -1,12 +1,31 @@
-# React + Vite
+# E-Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the E-Shop repository! This project is an e-commerce platform built with modern web technologies to provide a seamless shopping experience. Below, you'll find all the information you need to get started with the project.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live demo of the project here: [E-Shop Live Demo](https://e-shop-ruddy-seven.vercel.app/)
 
-## Expanding the ESLint configuration
+## Features
+- **Responsive Design**: Fully responsive design for all devices.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- **Frontend**: React.js, Tailwind CSS
+- **Deployment**: Vercel
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+- npm (Node Package Manager)
+
+
+### Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Nishanchaudhary/E-shop.git
