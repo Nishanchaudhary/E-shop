@@ -4,7 +4,7 @@ Welcome to the E-Shop repository! This project is an e-commerce platform built w
 
 ## Live Demo
 
-Check out the live demo of the project here: [E-Shop Live Demo](https://e-shop-ruddy-seven.vercel.app/)
+Check out the live demo of the project here: [E-Shop Live Demo](https://e-shop-theta-navy.vercel.app/)
 
 ## Features
 - **Responsive Design**: Fully responsive design for all devices.
